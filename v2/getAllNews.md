@@ -37,7 +37,7 @@
 
 ### Some informations
 
-* **news_category** is the news type ("general", "generator"). Use [/news/getGeneratorNews](getGeneratorNews) or [/news/getSiteNews](getSiteNews) to get single-type news
+* **news_category** is the news type ("general", "generator")
 * **news_edited**: has the news been modified by the administrators?
 * **news_media**: imgur.com media url or null
 
