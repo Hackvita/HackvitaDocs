@@ -15,11 +15,12 @@
   "ok": true,
   "values": [
     {
-      "news_id": 5,
-      "news_text": "Hello friends!",
+      "news_id": 6,
+      "news_text": "What are you doing?",
       "news_time": 1618862953,
-      "news_type": "generator",
-      "news_edited": true
+      "news_category": "generator",
+      "news_edited": false,
+      "news_media": null
     },
     "..."
   ]
@@ -28,8 +29,9 @@
 
 ### Some informations
 
-* **news_type** is always "generator" for this method
+* **news_category** is always "general" for this method
 * **news_edited**: has the news been modified by the administrators?
+* **news_media**: imgur.com media url or null
 
 ### Possible errors
 
