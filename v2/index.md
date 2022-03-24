@@ -36,6 +36,12 @@
 
 ## API changelogs
 
+### 2022-03-24: **Some updates about requests management.**
+
+Support for POST requests is now available. We have also updated our limits:
+* 5 requests every 25 seconds (limit based on api-key)
+* 8 requests every 30 seconds (limit based on ip-address)
+
 ### 2021-12-31: **Check guaranteedDuration in shopElements!**
 
 As of 31/12/21, the element_description value is also used to describe the duration guaranteed by that specific element. More informations here: [/orders/getShopElements](getShopElements).
