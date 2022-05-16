@@ -17,6 +17,7 @@
 * [/orders/getCartElements](getCartElements)
 * [/orders/getShopElements](getShopElements)
 * [/orders/getMyOrders](getMyOrders)
+* [/orders/getUpgradesElements](getUpgradesElements)
 
 * [/generators/getAccountsList](getAccountsList)
 * [/generators/getStarredAccountsList](getStarredAccountsList)
