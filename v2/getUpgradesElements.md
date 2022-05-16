@@ -4,6 +4,10 @@
 
 `https://api.hackvita.eu/v2/plans/getUpgradesElements?api_key={api_key}`
 
+### Corresponding site section
+
+`https://hackvita.eu/dashboard?section=Upgrade`
+
 ### Successful response
 
 ```json
@@ -24,6 +28,7 @@
       "upgrade_subscription": "Premium individual",
       "upgrade_image": "https://i.imgur.com/1r3SgXW.png",
       "upgrade_price": 14.99,
+      "upgrade_duration": 31536000,
       "upgrade_instock": 0
     },
     "..."
