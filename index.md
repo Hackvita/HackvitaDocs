@@ -16,8 +16,4 @@ To use this API you need to generate an api key from the panel. [Click here to s
 
 Never share your API key with anyone. This way, you will give full access to the API. HackVita staff does not take any responsibility in such cases. If you share the key by mistake, revoke it immediately from your panel. **We reserve the right to save certain information and to revoke your API key immediately if we detect strange operations with the key.**
 
-### Links
-
-* [V2 API documentation](v2)
-* [V1 API documentation (no longer available)](v1)
-* [Upgrade from V1 to V2](passToV2)
+### [Go to V2 API documentation =>](v2)
