@@ -40,11 +40,15 @@
 
 ## API changelogs
 
-### 2022-03-24: **Some updates about requests management.**
+### 2022-05-17: **Introducing some new methods.**
 
-Support for POST requests is now available. We have also updated our limits:
-* 5 requests every 25 seconds (limit based on api-key)
-* 8 requests every 30 seconds (limit based on ip-address)
+Here are the new features of this update:
+* we hae added [/account/getMyPermissions](getMyPermissions) to allow you to see the list of permissions that is active for that particular key
+* we have added [/orders/getUpgradesElements](getUpgradesElements) to allow you to get the full list of items available in the upgrade section
+* we have added [/orders/getUpgradesOrders](getUpgradesOrders) to allow you to obtain the history list containing upgrades already performed in the past
+* we have added [/plans/getPlanInformations](getPlanInformations) to allow you to see the information of an individual plan directly, without having to go through the complete list
+
+For API keys already created up to this point, all new commands will be turned off by default except [/account/getMyPermissions](getMyPermissions). To use them, activate them from our dashboard.
 
 ### 2021-12-31: **Check guaranteedDuration in shopElements!**
 

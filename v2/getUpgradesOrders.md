@@ -42,6 +42,7 @@
 * `order_notes` = `success` => `The procedure have been completed successfully: change your password for security reasons and enjoy your {0} subscription.`
 * `order_notes` = `credentials` => `We were unable to log you in, probably due to incorrect credentials. We have refunded the credits you spent.`
 * `order_notes` = `support` => `Sorry, we could not complete the procedure: please contact support to proceed.`
+
 Or, sometimes, the staff can insert a customised value to be shown to the user. If no value is entered, `order_notes` will be null.
 
 ### Possible errors
