@@ -43,7 +43,7 @@
 ### 2022-05-17: **Introducing some new methods.**
 
 Here are the new features of this update:
-* we hae added [/account/getMyPermissions](getMyPermissions) to allow you to see the list of permissions that is active for that particular key
+* we have added [/account/getMyPermissions](getMyPermissions) to allow you to see the list of permissions that is active for that particular key
 * we have added [/orders/getUpgradesElements](getUpgradesElements) to allow you to get the full list of items available in the upgrade section
 * we have added [/orders/getUpgradesOrders](getUpgradesOrders) to allow you to obtain the history list containing upgrades already performed in the past
 * we have added [/plans/getPlanInformations](getPlanInformations) to allow you to see the information of an individual plan directly, without having to go through the complete list
