@@ -9,15 +9,18 @@
 * [/account/getAccountInformations](getAccountInformations)
 * [/account/getReferrealInformations](getReferrealInformations)
 * [/account/getPaymentsLogs](getPaymentsLogs)
+* [/account/getMyPermissions](getMyPermissions)
 
 * [/plans/getPlansList](getPlansList)
 * [/plans/buyPlanCredits](buyPlanCredits)
 * [/plans/buyPlanReferreal](buyPlanReferreal)
+* [/plans/getPlanInformations](getPlanInformations)
 
 * [/orders/getCartElements](getCartElements)
 * [/orders/getShopElements](getShopElements)
 * [/orders/getMyOrders](getMyOrders)
 * [/orders/getUpgradesElements](getUpgradesElements)
+* [/orders/getUpgradesOrders](getUpgradesOrders)
 
 * [/generators/getAccountsList](getAccountsList)
 * [/generators/getStarredAccountsList](getStarredAccountsList)
